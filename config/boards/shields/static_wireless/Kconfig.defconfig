@@ -1,0 +1,6 @@
+if SHIELD_STATIC_WIRELESS
+
+config ZMK_KEYBOARD_NAME
+    default "Static Wireless"
+
+endif
